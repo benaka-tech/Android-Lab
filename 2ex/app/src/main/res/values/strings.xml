@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">2ex</string>
+    <string name="start">Button</string>
+    <string name="alert_title">Alert Title</string>
+    <string name="alert_message">Do want to Exit?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
